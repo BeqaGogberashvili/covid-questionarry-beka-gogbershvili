@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "BPG Arial";
+  src: url("/src/assets/fonts/bpg_arial_2009.ttf") format("woff2");
+}
+@font-face {
+  font-family: "Anonymous Pro B";
+  src: url("/src/assets/fonts/Anonymous_Pro_B.ttf") format("woff2");
+}
+@font-face {
+  font-family: "Helvetica Neue Lt Geo";
+  src: url("/src/assets/fonts/HelveticaNeueLTGEO-75Bold.ttf") format("woff2");
+}
+@font-face {
+  font-family: "Helvetica Neue Lt Geo 55";
+  src: url("/src/assets/fonts/HelveticaNeueLTGEO-55Roman.ttf") format("woff2");
+}
+@font-face {
+  font-family: "TBC Contractica CAPS Bold";
+  src: url("/src/assets/fonts/TBCContracticaCAPS-Bold.ttf") format("woff2");
+}
